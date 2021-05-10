@@ -1,0 +1,11 @@
+.vscode/
+lib/
+bin/
+!bin/*.bat
+!bin/*.exe
+build/
+extern/opencv
+
+!extern/glew/**
+!extern/glfw/**
+!extern/glm/**%  
